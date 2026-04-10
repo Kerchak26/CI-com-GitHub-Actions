@@ -1,5 +1,5 @@
 name: Teste de API
-
+#Funciona para push e pull request na branch main
 on:
   push:
     branches: [ "main" ]
